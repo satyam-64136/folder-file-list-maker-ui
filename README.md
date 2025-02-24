@@ -10,6 +10,9 @@
 - Save the list to a text file for future reference.  
 - User-friendly interface with dark mode.  
 
+## 🖥️ Screenshot of the app after running
+![App Screenshot](screenshot.png)  
+
 ## 🚀 Installation  
 
 ### 🏷️ Download Executable  
